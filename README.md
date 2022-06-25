@@ -1,4 +1,6 @@
-### Hi there 👋
+![background_image](https://user-images.githubusercontent.com/13526857/175754374-32208dc6-f5e9-4b92-bc62-92c589f288de.png)
+
+### Hi, I'm Dominic Cartwright 👋
 
 <!--
 **dcartwright07/dcartwright07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
