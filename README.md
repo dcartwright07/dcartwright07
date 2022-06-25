@@ -4,7 +4,7 @@
 
 I seek to provide web solutions for companies and non-profit organizations that will enhance their vision and achieve their goals. I am also a technology enthusiast, philosophical thinker, and people-lover. Being of Caribbean descent, I like to chill to reggae tunes and I get really excited when I'm talking to people.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dcartwright07&show_icons=true&count_private=true&theme=swift&hide=stars) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dcartwright07&show_icons=true&count_private=true&theme=swift) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dcartwright07&layout=compact&langs_count=10&count_private=true&show_icons=true&theme=swift)](https://github.com/dcartwright07/github-readme-stats)
 
 <!--
