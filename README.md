@@ -3,7 +3,7 @@
 ### Hi, I'm Dominic Cartwright 👋
 
 [![Gmail Badge](https://img.shields.io/badge/-dominic@dkcartwright.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dominic@dkcartwright.com)](mailto:dominic@dkcartwright.com)
-[![Linkedin Badge](https://img.shields.io/badge/-minoveaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dominic-cartwright/)](https://www.linkedin.com/in/dominic-cartwright/)
+[![Linkedin Badge](https://img.shields.io/badge/-dominic-cartwright-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dominic-cartwright/)](https://www.linkedin.com/in/dominic-cartwright/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/dcartwright07)](https://github.com/dcartwright07)
 
 I seek to provide web solutions for companies and non-profit organizations that will enhance their vision and achieve their goals. I am also a technology enthusiast, philosophical thinker, and people-lover. Being of Caribbean descent, I like to chill to reggae tunes and I get really excited when I'm talking to people.
