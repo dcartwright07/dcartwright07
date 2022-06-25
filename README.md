@@ -4,7 +4,8 @@
 
 I seek to provide web solutions for companies and non-profit organizations that will enhance their vision and achieve their goals. I am also a technology enthusiast, philosophical thinker, and people-lover. Being of Caribbean descent, I like to chill to reggae tunes and I get really excited when I'm talking to people.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dcartwright07&show_icons=true&count_private=true&theme=monokai&hide=stars)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dcartwright07&show_icons=true&count_private=true&theme=monokai&hide=stars) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dcartwright07)](https://github.com/dcartwright07/github-readme-stats)
 
 <!--
 **dcartwright07/dcartwright07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
