@@ -8,13 +8,60 @@
 
 I seek to provide web solutions for companies and non-profit organizations that will enhance their vision and achieve their goals. I am also a technology enthusiast, philosophical thinker, and people-lover. Being of Caribbean descent, I like to chill to reggae tunes and I get really excited when I'm talking to people.
 
-🔭 I’m currently working on a Community Development Platform called What'sUp 24/7. 
+🔭 I’m currently working on a Community Development Platform called What'sUp 24/7.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dcartwright07&show_icons=true&count_private=true&theme=swift) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dcartwright07&layout=compact&langs_count=8&count_private=true&show_icons=true&theme=swift)](https://github.com/dcartwright07/github-readme-stats)
 
+## My Everyday Tools
+
+<table width="100%">
+    <tbody>
+        <tr valign="top">
+            <td width="80px" align="center">
+              <span><strong>Vue</strong></span><br>
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+            </td>
+            <td width="80px" align="center">
+              <span><strong>PHP</strong></span><br>
+              <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+            </td>
+            <td width="80px" align="center">
+              <span><strong>HTML</strong></span><br>
+              <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+            </td>
+            <td width="80px" align="center">
+              <span><strong>CSS</strong></span><br>
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+            </td>
+            <td width="80px" align="center">
+              <span><strong>Vuetify</strong></span><br>
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" />
+            </td>
+            <td width="80px" align="center">
+              <span><strong>git</strong></span><br>
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+            </td>
+            <td width="80px" align="center">
+              <span><strong>GitHub</strong></span><br>
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+            <td width="80px" align="center">
+              <span><strong>Vim</strong></span><br>
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+            </td>
+            <td width="80px" align="center">
+              <span><strong>Docker</strong></span><br>
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+            </td>
+            <td width="80px" align="center">
+              <span><strong>JavaScript</strong></span><br>
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+            </td>
+        </tr>
+    </tbody>
+</table>
 <!--
 **dcartwright07/dcartwright07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dcartwright07&show_icons=true&count_private=true&theme=swift)
 
 Here are some ideas to get you started:
 
@@ -26,4 +73,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
