@@ -10,8 +10,6 @@ I seek to provide web solutions for companies and non-profit organizations that 
 
 🔭 I’m currently working on a Community Development Platform called What'sUp 24/7.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dcartwright07&layout=compact&langs_count=8&count_private=true&show_icons=true&theme=swift)](https://github.com/dcartwright07/github-readme-stats)
-
 ## My Everyday Tools
 
 <table width="100%">
@@ -59,9 +57,12 @@ I seek to provide web solutions for companies and non-profit organizations that 
         </tr>
     </tbody>
 </table>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dcartwright07&show_icons=true&count_private=true&theme=swift)
+
 <!--
 **dcartwright07/dcartwright07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dcartwright07&show_icons=true&count_private=true&theme=swift)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dcartwright07&layout=compact&langs_count=8&count_private=true&show_icons=true&theme=swift)](https://github.com/dcartwright07/github-readme-stats)
 
 Here are some ideas to get you started:
 
