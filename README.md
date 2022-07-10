@@ -31,7 +31,7 @@ I seek to provide web solutions for companies and non-profit organizations that 
             </td>
             <td width="80px" align="center">
               <span><strong>CSS</strong></span><br>
-              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
             </td>
             <td width="80px" align="center">
               <span><strong>Vuetify</strong></span><br>
