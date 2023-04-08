@@ -56,6 +56,14 @@ I seek to provide web solutions for companies and non-profit organizations that 
               <span><strong>JavaScript</strong></span><br>
               <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
             </td>
+            <td width="80px" align="center">
+              <span><strong>TypeScript</strong></span><br>
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+            </td>
+            <td width="80px" align="center">
+              <span><strong>MySQL</strong></span><br>
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+            </td>
         </tr>
     </tbody>
 </table>
