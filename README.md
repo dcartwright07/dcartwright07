@@ -2,7 +2,7 @@
 
 ### Hi, I'm Dominic Cartwright 👋
 
-[![Gmail Badge](https://img.shields.io/badge/-dominic@dkcartwright.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dominic@dkcartwright.com)](mailto:dominic@dkcartwright.com)
+<!-- [![Gmail Badge](https://img.shields.io/badge/-dominic@dkcartwright.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dominic@dkcartwright.com)](mailto:dominic@dkcartwright.com) -->
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dominic-cartwright/)](https://www.linkedin.com/in/dominic-cartwright/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/dcartwright07)](https://github.com/dcartwright07)
 
@@ -13,6 +13,39 @@ I seek to provide web solutions for companies and non-profit organizations that 
 👯 I’m looking to collaborate on project that help improve my community.<br />
 
 ## My Everyday Tools
+
+<table width="100%">
+    <tbody>
+        <tr valign="top">
+            <td width="80px" align="center">
+              <span><strong>Vuetify</strong></span><br>
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" />
+            </td>
+            <td width="80px" align="center">
+              <span><strong>git</strong></span><br>
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+            </td>
+            <td width="80px" align="center">
+              <span><strong>GitHub</strong></span><br>
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+            </td>
+            <td width="80px" align="center">
+              <span><strong>Vim</strong></span><br>
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+            </td>
+            <td width="80px" align="center">
+              <span><strong>Docker</strong></span><br>
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+            </td>
+            <td width="80px" align="center">
+              <span><strong>MySQL</strong></span><br>
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+## My Everyday Languages
 
 <table width="100%">
     <tbody>
@@ -30,27 +63,8 @@ I seek to provide web solutions for companies and non-profit organizations that 
               <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
             </td>
             <td width="80px" align="center">
-              <span><strong>CSS</strong></span><br>
+              <span><strong>SASS</strong></span><br>
               <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-            </td>
-            <td width="80px" align="center">
-              <span><strong>Vuetify</strong></span><br>
-              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" />
-            </td>
-            <td width="80px" align="center">
-              <span><strong>git</strong></span><br>
-              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-            </td>
-            <td width="80px" align="center">
-              <span><strong>GitHub</strong></span><br>
-              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-            <td width="80px" align="center">
-              <span><strong>Vim</strong></span><br>
-              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-            </td>
-            <td width="80px" align="center">
-              <span><strong>Docker</strong></span><br>
-              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
             </td>
             <td width="80px" align="center">
               <span><strong>JavaScript</strong></span><br>
@@ -59,10 +73,6 @@ I seek to provide web solutions for companies and non-profit organizations that 
             <td width="80px" align="center">
               <span><strong>TypeScript</strong></span><br>
               <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-            </td>
-            <td width="80px" align="center">
-              <span><strong>MySQL</strong></span><br>
-              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
             </td>
         </tr>
     </tbody>
