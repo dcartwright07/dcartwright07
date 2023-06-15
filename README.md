@@ -78,7 +78,7 @@ I seek to provide web solutions for companies and non-profit organizations that 
     </tbody>
 </table>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dcartwright07&show_icons=true&count_private=true&theme=swift)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dcartwright07&show_icons=true&count_private=true&theme=swift) -->
 
 <!--
 **dcartwright07/dcartwright07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
