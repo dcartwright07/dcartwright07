@@ -8,11 +8,13 @@
 
 I seek to provide web solutions for companies and non-profit organizations that enhance their vision and achieve their goals. I am also a technology enthusiast, philosophical thinker, and people-lover. Being of Caribbean descent, I like to chill to reggae tunes and I enjoy having conversations with people.
 
-<!-- 🔭 I’m currently working on a Community Development Platform called What'sUp 24/7.<br /> -->
+🔭 I’m currently working on a Education Technology for Higher Education.<br />
 <!-- 🌱 I’m currently learning C# with .NET.<br /> -->
 <!-- 👯 I’m looking to collaborate on project that help improve my community.<br /> -->
 
 ## My Everyday Tools
+
+<!-- Icons from https://devicon.dev/ -->
 
 <table width="100%">
     <tbody>
