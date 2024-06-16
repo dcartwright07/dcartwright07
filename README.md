@@ -28,7 +28,7 @@ I seek to provide web solutions for companies and non-profit organizations that 
               <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
             </td>
             <td width="80px" align="center">
-              <span><strong>JetBrains IDEs</strong></span><br>
+              <span><strong>JetBrains</strong></span><br>
               <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
             </td>
             <td width="80px" align="center">
