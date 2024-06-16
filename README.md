@@ -28,11 +28,11 @@ I seek to provide web solutions for companies and non-profit organizations that 
               <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
             </td>
             <td width="80px" align="center">
-              <span><strong>GitHub</strong></span><br>
-              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" />
+              <span><strong>JetBrains IDEs</strong></span><br>
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
             </td>
             <td width="80px" align="center">
-              <span><strong>Vim</strong></span><br>
+              <span><strong>Neovim</strong></span><br>
               <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" />
             </td>
             <td width="80px" align="center">
