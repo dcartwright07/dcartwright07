@@ -29,11 +29,11 @@ I seek to provide web solutions for companies and non-profit organizations that 
             </td>
             <td width="80px" align="center">
               <span><strong>GitHub</strong></span><br>
-              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" />
             </td>
             <td width="80px" align="center">
               <span><strong>Vim</strong></span><br>
-              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" />
             </td>
             <td width="80px" align="center">
               <span><strong>Docker</strong></span><br>
