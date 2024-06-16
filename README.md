@@ -20,8 +20,8 @@ I seek to provide web solutions for companies and non-profit organizations that 
     <tbody>
         <tr valign="top">
             <td width="80px" align="center">
-              <span><strong>Vuetify</strong></span><br>
-              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" />
+              <span><strong>Vue</strong></span><br>
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
             </td>
             <td width="80px" align="center">
               <span><strong>git</strong></span><br>
@@ -47,6 +47,10 @@ I seek to provide web solutions for companies and non-profit organizations that 
               <span><strong>PostgreSQL</strong></span><br>
               <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
             </td>
+            <td width="80px" align="center">
+              <span><strong>SASS</strong></span><br>
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+            </td>
         </tr>
     </tbody>
 </table>
@@ -57,10 +61,6 @@ I seek to provide web solutions for companies and non-profit organizations that 
     <tbody>
         <tr valign="top">
             <td width="80px" align="center">
-              <span><strong>Vue</strong></span><br>
-              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-            </td>
-            <td width="80px" align="center">
               <span><strong>PHP</strong></span><br>
               <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
             </td>
@@ -70,7 +70,7 @@ I seek to provide web solutions for companies and non-profit organizations that 
             </td>
             <td width="80px" align="center">
               <span><strong>SASS</strong></span><br>
-              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
             </td>
             <td width="80px" align="center">
               <span><strong>JavaScript</strong></span><br>
